@@ -5,7 +5,7 @@ int main()
 {
     printf("Hello world of world !\n");
 
-    printf("BLAAAAAA BLAAAA");
-    printf("DAMIYON GIRLLLLL");
+    printf("first");
+    printf("helooo");
     return 0;
 }
